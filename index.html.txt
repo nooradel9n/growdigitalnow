@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grow Digital Now – SEO & AI Learning</title>
+<meta name="description" content="Beginner-friendly SEO and AI learning resources. Backlink to GrowDigitalNow.org">
+</head>
+<body style="font-family: Arial; padding: 40px; max-width: 700px; margin:auto; line-height: 1.6;">
+<h1>Grow Digital Now – Learn SEO and AI for Beginners</h1>
+<p>Welcome to my digital marketing practice page. This site is part of my learning journey where I explore SEO, AI-driven optimization, and ranking strategies.</p>
+
+<p>Visit my main website here:<br>
+<a href="https://growdigitalnow.org" target="_blank">https://GrowDigitalNow.org</a></p>
+
+<h2>Featured Articles</h2>
+<ul>
+<li><a href="https://growdigitalnow.org/seo-ai-ranking/" target="_blank">SEO and AI Concepts for Ranking Content in LLMs</a></li>
+<li><a href="https://growdigitalnow.org/michigan-generative-engine-optimization-tactics/" target="_blank">Michigan Generative Engine Optimization Tactics</a></li>
+</ul>
+
+<p>This GitHub page was created as part of my Web Publishing and SEO learning project to understand how backlinks influence visibility.</p>
+</body>
+</html>
